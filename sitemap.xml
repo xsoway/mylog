@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xsoway.github.io/mylog.github.io/photos/index.html</loc>
+    
+    <lastmod>2025-07-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xsoway.github.io/mylog.github.io/about/index.html</loc>
     
     <lastmod>2025-07-24</lastmod>
