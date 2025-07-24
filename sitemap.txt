@@ -1,7 +1,7 @@
-https://xsoway.github.io/mylog.github.io/photos/index.html
-https://xsoway.github.io/mylog.github.io/about/index.html
 https://xsoway.github.io/mylog.github.io/tags/index.html
 https://xsoway.github.io/mylog.github.io/categories/index.html
+https://xsoway.github.io/mylog.github.io/about/index.html
+https://xsoway.github.io/mylog.github.io/photos/index.html
 https://xsoway.github.io/mylog.github.io/2025/07/24/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/
 https://xsoway.github.io/mylog.github.io/2025/07/24/hello-world/
 https://xsoway.github.io/mylog.github.io
